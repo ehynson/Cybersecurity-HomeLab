@@ -143,7 +143,7 @@ It demonstrates the foundational skills expected of:
 ---
 
 ## **8. Author**
-Built and documented by **Eric** as part of a structured cybersecurity learning and career development plan.
+Built and documented by **Eric Hynson** as part of a structured cybersecurity learning and career development plan.
 
 ---
 
